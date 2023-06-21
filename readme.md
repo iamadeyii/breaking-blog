@@ -1,4 +1,4 @@
-<h1 align=center>Personal Homepage</h1>
+<h1 align=center>Personal Blogpage</h1>
 
 <p align=center> Inspired by <a href="https://zeon.studio/">Zeon Studio</a></p>Astroplate: A free starter template built with Astro, TailwindCSS & TypeScript, providing everything you need to jumpstart your Astro project and save valuable time.</p>
 
