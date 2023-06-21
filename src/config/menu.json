@@ -1,0 +1,26 @@
+{
+  "main": [
+    {
+      "name": "Home",
+      "url": "/"
+    },
+    {
+      "name": "myCard",
+      "url": "https://me.iamadeyii.com"
+    },
+    {
+      "name": "Contact",
+      "url": "#"
+    }
+  ],
+  "footer": [
+    {
+      "name": "Elements",
+      "url": "/elements"
+    },
+    {
+      "name": "Privacy Policy",
+      "url": "/privacy-policy"
+    }
+  ]
+}

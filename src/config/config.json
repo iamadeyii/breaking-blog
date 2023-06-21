@@ -1,0 +1,41 @@
+{
+  "site": {
+    "title": "RalpH",
+    "base_url": "https://iamadeyii.com",
+    "base_path": "/",
+    "trailing_slash": false,
+    "favicon": "/images/favicon.png",
+    "logo": "/images/logo.png",
+    "logo_darkmode": "/images/logo-darkmode.png",
+    "logo_width": "150",
+    "logo_height": "30",
+    "logo_text": "RalpH"
+  },
+
+  "settings": {
+    "search": true,
+    "sticky_header": true,
+    "theme_switcher": true,
+    "default_theme": "system",
+    "pagination": 2,
+    "summary_length": 200,
+    "blog_folder": "blog"
+  },
+
+  "params": {
+    "contact_form_action": "#",
+    "copyright": " © 2023 [RalpH](https://me.iamadeyii.com)"
+  },
+
+  "disqus": {
+    "enable": true,
+    "shortname": "Astroplate-template",
+    "settings": {}
+  },
+
+  "metadata": {
+    "meta_author": "iamadeyii.com",
+    "meta_image": "/images/og-image.png",
+    "meta_description": "astro and tailwind boilerplate"
+  }
+}
